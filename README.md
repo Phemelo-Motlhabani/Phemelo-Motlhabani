@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# My name is Phemelo Motlhabani
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phemelo Motlhabani
 ## Data Engineer
 **I solve problems related to how to best handle the data deluge**
 🌍  I'm based in Johannesburg

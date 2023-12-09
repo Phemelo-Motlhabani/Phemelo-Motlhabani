@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phemelo Motlhabani==========================================================================================================================================Data Engineer-------------I solve problems related to how to best handle the data deluge* 🌍  I'm based in Johannesburg* ✉️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com)* 🧠  I'm learning Backend Development with Python* 🤝  I'm open to collaborating on data-intensive projects* ⚡  I always forget my twin's birthday
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Phemelo Motlhabani==========================================================================================================================================
+Data Engineer-------------
+I solve problems related to how to best handle the data deluge
+* 🌍  I'm based in Johannesburg
+* ✉️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com)
+* 🧠  I'm learning Backend Development with Python
+* 🤝  I'm open to collaborating on data-intensive projects
+* ⚡  I always forget my twin's birthday
 
 ### Skills
 
@@ -17,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/Phemelo-Motlhabani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Phemelo-Motlhabani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Phemelo-Motlhabani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-Motlhabani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phemelo-Motlhabani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-Motlhabani&show_icons=true&theme=radical&hide_progress=true)
 <!---

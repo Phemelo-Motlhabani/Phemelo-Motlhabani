@@ -5,7 +5,7 @@
 ✉️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) <br>
 🧠  I'm learning Backend Development with Python <br>
 🤝  I'm open to collaborating on data-intensive projects <br>
-⚡  I always forget my twin's birthday <br>
+⚡  I always forget my twin's birthday :smirk: <br>
 
 ### Skills
 <p align="left">
@@ -25,7 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phemelo-Motlhabani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-Motlhabani&show_icons=true&theme=radical&hide_progress=true)
 
-## Snake Eating My Contributions :broken_heart: :sob:
+### Snake Eating My Contributions :broken_heart: :sob:
 ![snake gif](https://github.com/Phemelo-Motlhabani/Phemelo-Motlhabani/blob/output/github-contribution-grid-snake.gif)
 
 <!---

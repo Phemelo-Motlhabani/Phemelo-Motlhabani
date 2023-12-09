@@ -1,11 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phemelo Motlhabani
 ## Data Engineer
-**I solve problems related to how to best handle the data deluge**
-*🌍  I'm based in Johannesburg
-*✉️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com)
-*🧠  I'm learning Backend Development with Python
-*🤝  I'm open to collaborating on data-intensive projects
-*⚡  I always forget my twin's birthday
+**I solve problems related to how to best handle the data deluge** <br>
+🌍  I'm based in Johannesburg <br>
+✉️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) <br>
+🧠  I'm learning Backend Development with Python <br>
+🤝  I'm open to collaborating on data-intensive projects <br>
+⚡  I always forget my twin's birthday <br>
 
 ### Skills
 <p align="left">

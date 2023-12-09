@@ -1,11 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phemelo Motlhabani
 ## Data Engineer
 **I solve problems related to how to best handle the data deluge** <br>
-🌍  I'm based in Johannesburg <br>
-✉️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) <br>
-🧠  I'm learning Backend Development with Python <br>
-🤝  I'm open to collaborating on data-intensive projects <br>
-⚡  I always forget my twin's birthday :smirk: <br>
+🌍  I'm based in Johannesburg 📍<br>
+☎️  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) 📧 <br>
+🧠  I'm learning Backend Development with Python 💻 <br>
+🤝  I'm open to collaborating on data-intensive projects👷 <br>
+⚡  I always forget my twin's birthday 😏 <br>
+🌱  I am a life-long learner 📖 who is passionate ❤️🚀 about solving problems🤓 <br>
 
 ### Skills
 <p align="left">
@@ -28,6 +29,7 @@
 ### Snake Eating My Contributions :broken_heart: :sob:
 ![snake gif](https://github.com/Phemelo-Motlhabani/Phemelo-Motlhabani/blob/output/github-contribution-grid-snake.gif)
 
+![4kwallpapers](https://4kwallpapers.com/images/walls/thumbs_3t/5947.png)
 <!---
 Phemelo-Motlhabani/Phemelo-Motlhabani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

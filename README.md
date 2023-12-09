@@ -25,7 +25,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phemelo-Motlhabani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-Motlhabani&show_icons=true&theme=radical&hide_progress=true)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+## Snake Eating My Contributions :broken_heart: :sob:
+![snake gif](https://github.com/Phemelo-Motlhabani/Phemelo-Motlhabani/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 Phemelo-Motlhabani/Phemelo-Motlhabani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

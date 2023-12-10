@@ -30,8 +30,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Phemelo-Motlhabani&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!---
 ### Snake Eating My Contributions :broken_heart: :sob:
 ![snake gif](https://github.com/Phemelo-Motlhabani/Phemelo-Motlhabani/blob/output/github-contribution-grid-snake.gif)
+--->
 
 ![4kwallpapers](https://4kwallpapers.com/images/walls/thumbs_3t/5947.png)
 <!---

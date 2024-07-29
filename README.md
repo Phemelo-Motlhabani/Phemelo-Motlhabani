@@ -3,7 +3,7 @@
 **I solve problems related to how to best handle the data deluge** <br>
 🌍  I'm based in Johannesburg 🇿🇦📍<br>
 📨  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) 📧 <br>
-🧠  I'm learning Backend Development with Python 💻 <br>
+🧠  I'm learning Backend Development with Python and C# 💻 <br>
 🤝  I'm open to collaborating on data-intensive projects👷 <br>
 ⚡  I always forget my twin's birthday 😏 <br>
 🌱  I am a life-long learner 📖 who is passionate ❤️🚀 about solving problems🤓 <br>

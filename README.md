@@ -1,12 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phemelo Motlhabani
 ## Data Engineer
-**I solve problems related to how to best handle the data deluge** <br>
+**I specialize in solving complex problems related to efficiently managing and analyzing large volumes of data.** <br>
 🌍  I'm based in Johannesburg 🇿🇦📍<br>
-📨  You can contact me at [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) 📧 <br>
-🧠  I'm learning Backend Development with Python and C# 💻 <br>
+📨  Contact: [phemza-phemza@hotmail.com](mailto:phemza-phemza@hotmail.com) 📧 <br>
+🧠  Backend with Python and C# 💻 <br>
 🤝  I'm open to collaborating on data-intensive projects👷 <br>
 ⚡  I always forget my twin's birthday 😏 <br>
-🌱  I am a life-long learner 📖 who is passionate ❤️🚀 about solving problems🤓 <br>
+🌱  I am a life-long learner who is passionate about solving problems 📖❤️🚀 <br>
 
 ![](https://komarev.com/ghpvc/?username=Phemelo-Motlhabani&color=blueviolet&style=plastic&base=50&label=Profile+Views)
 
